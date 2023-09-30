@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Removing the '.disabled' will show that a failing script blocks startup"
+
+exit 1
